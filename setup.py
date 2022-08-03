@@ -35,7 +35,7 @@ data = {
         'Framework :: Django',
     ],
     'install_requires': [
-        'Django >= 4.0.1',
+        'Django >= 1.9',
         'Radicale >= 3.1.2',
     ],
 }
